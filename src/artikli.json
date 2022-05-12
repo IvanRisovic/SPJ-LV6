@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "naziv": "Piletina",
+        "proizvodac": "Cekin",
+        "model": "prsa",
+        "cijena": 35.99,
+        "kolicina": 20
+    },
+    {
+        "id": 2,
+        "naziv": "Istarska mini roštiljka",
+        "proizvodac": "RAW-stilj",
+        "model":"kobasica",
+        "cijena": 14.99,
+        "kolicina": 25
+    },
+    {
+        "id": 3,
+        "naziv": "Patliđan",
+        "proizvodac": "OPG",
+        "model": "tamni",
+        "cijena": 2.70,
+        "kolicina": 0
+    },
+    {
+        "id": 4,
+        "naziv": "Američki burger",
+        "proizvodac": "PIK",
+        "model": "pljeskavica",
+        "cijena": 39.99,
+        "kolicina": 55
+    },
+    {
+        "id": 5,
+        "naziv": "Ajvar",
+        "proizvodac": "K plus",
+        "model": "blagi",
+        "cijena": 34.99,
+        "kolicina": 0
+    }
+]
